@@ -12,7 +12,6 @@ Pygame Calculator is a simple yet powerful calculator that supports basic and sc
 
 ## 📸 Screenshots
 
-> Add your screenshots below by replacing the paths.
 
 | Home Screen               | History View                 |
 | ------------------------- | ---------------------------- |
