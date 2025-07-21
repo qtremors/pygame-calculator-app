@@ -141,4 +141,4 @@ Feel free to:
 
 ---
 
-> Made with Python ♥ by Tremors.
+> Crafted with ❤️ by **Tremors**
