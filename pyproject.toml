@@ -1,0 +1,20 @@
+[project]
+name = "pygame-calculator-app"
+version = "2.0.0"
+description = "A modern, keyboard-accessible desktop calculator with smooth animations and dark theme"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+keywords = ["calculator", "pygame", "desktop", "gui"]
+dependencies = [
+    "pygame-ce>=2.5.6",
+]
+
+[project.scripts]
+calculator = "calculator:main"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]
+
