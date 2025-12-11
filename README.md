@@ -2,7 +2,7 @@
 
 A modern desktop calculator built with Python and Pygame-CE featuring a dark theme, smooth animations, and a safe expression parser.
 
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home Screen" width="350"/>
 
 ## Features
 
@@ -44,7 +44,3 @@ python calculator.py
 ├── ui_components.py     # Animated UI components
 └── test_calculator.py   # Tests (34 cases)
 ```
-
-## License
-
-MIT
