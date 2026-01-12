@@ -1,6 +1,6 @@
 [project]
 name = "pygame-calculator-app"
-version = "0.0.2"
+version = "0.0.3"
 description = "A modern, keyboard-accessible desktop calculator with smooth animations and dark theme"
 readme = "README.md"
 requires-python = ">=3.10"

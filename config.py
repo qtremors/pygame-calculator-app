@@ -65,7 +65,7 @@ class FontSizes:
 
 # Application metadata
 APP_NAME = "Pygame Calculator"
-APP_VERSION = "0.0.2"
+APP_VERSION = "0.0.3"
 HISTORY_FILE = "calculator_history.txt"
 MAX_HISTORY_ENTRIES = 100
 

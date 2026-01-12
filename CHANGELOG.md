@@ -1,8 +1,17 @@
 # Pygame Calculator Changelog
 
 > **Project:** Pygame Calculator
-> **Version:** 0.0.2
-> **Last Updated:** 2025-12-11
+> **Version:** 0.0.3
+> **Last Updated:** 2026-01-12
+
+---
+
+## [0.0.3] - 2026-01-12
+
+### Changed
+- Refreshed the README and added developer documentation and a task backlog.
+- Updated license terms to Tremors Source License (TSL) Version 2.0.
+- Aligned application and project version metadata to `0.0.3`.
 
 ---
 
